@@ -1,4 +1,4 @@
-# Deeplearning Projects
+# Deep Learning Projects and Experiments
 
 This repository contains my experiments of Machine learning, Deep learning using Keras, Theano and NumPy etc
 
